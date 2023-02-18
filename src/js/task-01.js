@@ -10,7 +10,5 @@ bigliEl.forEach((liel) => {
     const x = document.querySelectorAll( '.item > li ')
     console.log('Category:', y.textContent)
     console.log('Elements:', x.length  )
-}
-
-)
+})
   
